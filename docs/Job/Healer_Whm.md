@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Healer WHM Guide"
+parent: Job
 ---
+
+![alt text](../../Images/cfub5h5ddfke1.jpeg)
 
 # White Mage (WHM) Guide
 
